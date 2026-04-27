@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Beach Paradise",
+    "length": "7 days",
+    "start": "Miami",
+    "resort": "Ocean View Resort",
+    "perPerson": 1200,
+    "image": "reef1.jpg",
+    "description": "Enjoy sunny beaches and crystal clear water."
+  },
+  {
+    "name": "Mountain Adventure",
+    "length": "5 days",
+    "start": "Denver",
+    "resort": "Rocky Mountain Lodge",
+    "perPerson": 900,
+    "image": "reef2.jpg",
+    "description": "Explore the mountains and enjoy hiking."
+  }
+]
