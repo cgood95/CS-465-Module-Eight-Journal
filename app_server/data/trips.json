@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bahamas Cruise",
+    "price": 799,
+    "description": "Relax on a tropical cruise."
+  },
+  {
+    "name": "Paris Adventure",
+    "price": 1299,
+    "description": "Explore the city of lights."
+  }
+]

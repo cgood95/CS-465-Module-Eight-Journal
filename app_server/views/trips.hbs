@@ -1,0 +1,13 @@
+<h1>Available Trips</h1>
+
+<ul id="rooms">
+{{#each trips}}
+  <li>
+    <img src="/images/{{this.image}}" width="150">
+
+    <h2>{{this.name}}</h2>
+    <span class="rate">${{this.price}}</span>
+    <p>{{this.description}}</p>
+  </li>
+{{/each}}
+</ul>
